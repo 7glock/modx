@@ -1,0 +1,13 @@
+local ohInstance1 = game.Workspace[game.Players.LocalPlayer.Name].Humanoid
+local ohCFrame2 = CFrame.new(-5228.7103539, 651.291443, -312.952362, 0.524818063, 0.850281894, -0.0398331285, 0.0127531607, -0.0546447635, -0.998424411, -0.851118922, 0.523483217, -0.0395223461)
+local ohNumber3 = 10
+local ohNumber4 = 0
+local ohNil5 = nil
+local ohString6 = "rbxassetid://245751634"
+local ohNumber7 = 0.075
+local ohColor38 = Color3.new(0, 0, 0)
+local ohString9 = "rbxassetid://2914074987"
+local ohNumber10 = 2.2
+local ohNumber11 = 0.44
+
+game:GetService("ReplicatedStorage").Heal5:FireServer(ohInstance1, ohCFrame2, ohNumber3, ohNumber4, ohNil5, ohString6, ohNumber7, ohColor38, ohString9, ohNumber10, ohNumber11)
